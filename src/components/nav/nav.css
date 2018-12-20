@@ -1,0 +1,31 @@
+.lol {
+    display: flex;
+    height: 70px;
+    width: 100%;
+    background: rgb(44, 25, 11);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.lolol > img {
+    max-height: 40px;
+    max-width: 60px;
+    border-radius: 10px;
+}
+
+.lol button {
+    height: 40px;
+    width: 80px;
+    margin: 0 50px;
+    background: lightblue;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+
+.lol button:hover {
+    background: lightcoral;
+}

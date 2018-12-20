@@ -1,0 +1,10 @@
+.couchcouch {
+    text-align: center;
+}
+
+.couchcouch img {
+    border-radius: 10px;
+    border: solid black 5px;
+    max-height: 400px;
+    max-width: 500px;
+}

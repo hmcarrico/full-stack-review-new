@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Mali');
+
+.homee {
+    height: 100vh;
+    text-align: center;
+    /* background: lightblue; */
+    color: rgb(44, 25, 11);
+}
+
+.homee button {
+    height: 50px;
+    width: 160px;
+    margin: 0 50px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    background: rgb(44, 25, 11);
+    color: white;
+}
+
+.homee button:hover {
+    background: lightcoral;
+}
+
+.homee h1 {
+    padding-top: none;
+    margin: none;
+}
+
+* {
+    font-family: 'Mali', cursive;
+}
